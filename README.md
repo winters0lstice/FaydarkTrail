@@ -5,4 +5,4 @@ proof of concept - PowerShell game using WPF
 <br>Open PowerShell and navagate to extracted folder
 <br>Run FaydarkTrail.ps1
 
-![](https://github.com/FaydarkTrail/game_play.gif)
+![til](./game_play.gif)
